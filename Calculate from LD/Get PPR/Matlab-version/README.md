@@ -13,3 +13,5 @@
 - **matlab Get_PPR.m**
 
 *If you are lucky, the PPR image will be generate by using matlab codes*
+
+<div align=center><img width="300" height="300" src=https://github.com/Tingliangstu/PPR-Phonon-Participation-Ratio/blob/main/Calculate%20from%20LD/Get%20PPR/Matlab-version/PPR_of_MoS2.jpg>
