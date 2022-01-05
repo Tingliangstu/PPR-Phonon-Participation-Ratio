@@ -3,7 +3,11 @@
 ### In this method, one can use the following formula to calculate the PPR,  
 
 $$
+<<<<<<< HEAD
 P_{\lambda}^{-1}=N\sum_{i}\left(\sum_{\alpha} e_{i\alpha,\lambda}^{*}e_{i\alpha,\lambda}\right)^{2}
+=======
+P_{\lambda}^{-1}=N \sum_{i}\left(\sum_{\alpha} e_{i \alpha,\lambda}^{*} e_{i\alpha,\lambda}\right)^{2}
+>>>>>>> 46f4b5f8c7e8e4eb08311a5d6281cd8b8f774809
 $$
 
 where *N* is the total number of atoms in primitive cell, and $e_{i\alpha,\lambda}$ is the αth eigenvector component of eigenmode λ for the ith atom. Each eigenmode λ is specified by the wave-vector **k** and branch index s. 
