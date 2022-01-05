@@ -1,7 +1,5 @@
 # PPR-Phonon-Participation-Ratio
-**Calculation of phonon participation rates -- used to characterize atomic vibrational information including the degree of localization and delocalization.**
-
-
+####**Calculation of phonon participation rates -- used to characterize atomic vibrational information including the degree of localization and delocalization.**
 
 ### This project contains two calculation methods. As follows:
 
