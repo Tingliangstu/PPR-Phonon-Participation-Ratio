@@ -1,0 +1,23 @@
+##Initialization#basis
+units                        metal
+dimension                      3
+boundary                    p   p   p
+atom_style                   atomic
+
+#read graphite  
+read_data                    data.MoS2
+
+#mass
+# First layer
+
+mass           1            95.940002  # Mo 
+mass           2            32.064999  # S_top and S_down
+
+#potential      function
+
+pair_style          rebomos
+
+pair_coeff          *     *       MoS.REBO.set5b    M    S
+
+
+neighbor                	0.3 bin
