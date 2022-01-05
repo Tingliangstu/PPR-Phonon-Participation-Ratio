@@ -11,7 +11,7 @@ Based on the atomic phonon density of states (PDOS) [[Dickey 1969]](https://doi.
 $$
 PPR(\omega) = \frac{1}{N} \frac{(\sum_{i}PDOS_{i}^{2}(\omega))^{2}}{\sum_{i}PDOS_{i}^{4}(\omega)},
 $$
-where $*PDOS_{i}*$ is the atomic *PDOS*, and *N* is the total number of atoms involved in the calculation.
+where *$PDOS_{i}$* is the atomic *PDOS*, and *N* is the total number of atoms involved in the calculation.
 
 #### 2. [Calculate PPR from lattice dynamic (LD)](https://github.com/Tingliangstu/PPR-Phonon-Participation-Ratio/tree/main/Calculate%20from%20LD)
 
