@@ -33,9 +33,7 @@
 
 - [x] Phonon dispersion, as shown in here.
 
-<<<<<<< HEAD
-  <div align=center><img width="300" height="300" src=https://github.com/Tingliangstu/PPR-Phonon-Participation-Ratio/blob/main/Calculate%20from%20LD/phonolammps%20%2B%20phonopy/MoS2_dispersion.png>
-=======
   <div align=center><img width="450" height="300" src=https://github.com/Tingliangstu/PPR-Phonon-Participation-Ratio/blob/main/Calculate%20from%20LD/phonolammps%20%2B%20phonopy/MoS2_dispersion.png>
->>>>>>> 95c123bcb9b18980907d5858ffac10f17c048456
+
+
 
