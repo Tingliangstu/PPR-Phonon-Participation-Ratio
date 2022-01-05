@@ -8,9 +8,9 @@
 
 *If you are lucky, the PPR image will be generate by using Pyhton codes*
 
-<div align=center><img width="350" height="300" src=https://github.com/Tingliangstu/PPR-Phonon-Participation-Ratio/blob/main/Calculate%20from%20LD/Get%20PPR/Python-version/PPR%20of%20MoS2.jpg>
-
 ## Required package
 #### 1. numpy 
 #### 2. PyYaml
 #### 3. matplotlib
+
+<div align=center><img width="500" height="350" src=https://github.com/Tingliangstu/PPR-Phonon-Participation-Ratio/blob/main/Calculate%20from%20LD/Get%20PPR/Python-version/PPR%20of%20MoS2.jpg>
