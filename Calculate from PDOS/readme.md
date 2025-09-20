@@ -4,7 +4,7 @@ In this method, one can use the following formula to calculate the PPR,
 $$
 PPR(\omega) = \frac{1}{N} \frac{(\sum_{i}PDOS_{i}^{2}(\omega))^{2}}{\sum_{i}PDOS_{i}^{4}(\omega)},
 $$
-where *$PDOS_{i}$* is the atomic *PDOS*, and *N* is the total number of atoms involved in the calculation. (From top Dr. [penghua](https://github.com/hityingph/Tutorial-on-atomic-simulations/blob/main/Phonon%20Participation%20Ratios/Phonon%20Participation%20Ratios.ipynb))
+where *$PDOS_{i}$* is the atomic *PDOS*, and *N* is the total number of atoms involved in the calculation.)
 
 **The code is modified from matlab for calculating the total PDOS written by Dr. [Zheyong Fan](https://github.com/brucefan1983), and I will refine the tutorial once I have time.**
 
